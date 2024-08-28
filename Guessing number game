@@ -32,7 +32,7 @@ class Game{
             
         }
         else if(number > inputNumber) {
-            System.out.println("Nope, Guess a larger number.");
+            System.out.println("Nope, Guess a larger number please.");
         }
          return false;
     }
